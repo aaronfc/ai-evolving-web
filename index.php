@@ -28,6 +28,11 @@
         a:hover {
             text-decoration: underline;
         }
+        .quote {
+            font-style: italic;
+            margin-top: 30px;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -35,6 +40,10 @@
     <div>
         <p>Welcome to the evolving web page powered by GPT-4. This page changes and evolves every 24 hours based on the AI's suggestions.</p>
         <p>Created by <a href="https://aaron.com.es" target="_blank">Aarón Fas</a> and GPT-4.</p>
+        <div class="quote">
+            <p>"The only constant is change."</p>
+            <p>- Heraclitus</p>
+        </div>
     </div>
 </body>
 </html>
