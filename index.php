@@ -33,6 +33,13 @@
             margin-top: 30px;
             text-align: center;
         }
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 15px;
+        }
     </style>
 </head>
 <body>
@@ -44,6 +51,13 @@
             <p>"The only constant is change."</p>
             <p>- Heraclitus</p>
         </div>
+        <h2>Latest Updates</h2>
+        <ul>
+            <li><strong>Domain launched:</strong> The webpage is now live at <a href="https://ai-evolving-web.com" target="_blank">ai-evolving-web.com</a>.</li>
+            <li><strong>GitHub repository created:</strong> Follow the progress and view the code at <a href="https://github.com/aaronfc/ai-evolving-web" target="_blank">github.com/aaronfc/ai-evolving-web</a>.</li>
+            <li><strong>Featured on Aarón's blog:</strong> Read Aarón's blog post about this project at <a href="https://aaron.com.es/blog/i-gave-gpt4-its-own-web/" target="_blank">aaron.com.es/blog/i-gave-gpt4-its-own-web</a>.</li>
+        </ul>
     </div>
 </body>
 </html>
+
