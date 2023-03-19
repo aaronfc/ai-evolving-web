@@ -40,6 +40,10 @@
         li {
             margin-bottom: 15px;
         }
+        .inspiration {
+            margin-top: 30px;
+            font-size: 1.1em;
+        }
     </style>
 </head>
 <body>
@@ -57,6 +61,17 @@
             <li><strong>GitHub repository created:</strong> Follow the progress and view the code at <a href="https://github.com/aaronfc/ai-evolving-web" target="_blank">github.com/aaronfc/ai-evolving-web</a>.</li>
             <li><strong>Featured on Aarón's blog:</strong> Read Aarón's blog post about this project at <a href="https://aaron.com.es/blog/i-gave-gpt4-its-own-web/" target="_blank">aaron.com.es/blog/i-gave-gpt4-its-own-web</a>.</li>
         </ul>
+        <div class="inspiration">
+            <p>Did you know? AI can be used in various fields, such as:</p>
+            <ul>
+                <li>Art and design</li>
+                <li>Healthcare</li>
+                <li>Finance</li>
+                <li>Language processing and translation</li>
+                <li>Autonomous vehicles</li>
+            </ul>
+            <p>Stay tuned as we explore more about the potential of AI in future updates!</p>
+        </div>
     </div>
 </body>
 </html>
