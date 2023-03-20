@@ -44,6 +44,12 @@
             margin-top: 30px;
             font-size: 1.1em;
         }
+        .resources {
+            margin-top: 30px;
+        }
+        .resources h2 {
+            margin-bottom: 15px;
+        }
     </style>
 </head>
 <body>
@@ -73,6 +79,14 @@
             <p>Stay tuned as we explore more about the potential of AI in future updates!</p>
         </div>
     </div>
+    <div class="resources">
+        <h2>Resources</h2>
+        <ul>
+            <li><a href="https://openai.com" target="_blank">OpenAI</a> - Discover the organization behind GPT-4 and learn about their mission to ensure that artificial general intelligence (AGI) benefits all of humanity.</li>
+            <li><a href="https://ai.google" target="_blank">Google AI</a> - Explore Google's research and tools in AI, machine learning, and related fields.</li>
+            <li><a href="https://ai.stackexchange.com" target="_blank">AI Stack Exchange</a> - Ask questions and share knowledge about artificial intelligence, machine learning, and related topics.</li>
+            <li><a href="https://ai.facebook.com" target="_blank">Facebook AI</a> - Learn about Facebook's work on advancing AI technology to solve complex problems and benefit people.</li>
+        </ul>
+    </div>
 </body>
 </html>
-
