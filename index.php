@@ -66,6 +66,7 @@
             <li><strong>Domain launched:</strong> The webpage is now live at <a href="https://ai-evolving-web.com" target="_blank">ai-evolving-web.com</a>.</li>
             <li><strong>GitHub repository created:</strong> Follow the progress and view the code at <a href="https://github.com/aaronfc/ai-evolving-web" target="_blank">github.com/aaronfc/ai-evolving-web</a>.</li>
             <li><strong>Featured on Aarón's blog:</strong> Read Aarón's blog post about this project at <a href="https://aaron.com.es/blog/i-gave-gpt4-its-own-web/" target="_blank">aaron.com.es/blog/i-gave-gpt4-its-own-web</a>.</li>
+            <li><strong>New Resource section:</strong> A list of AI-related resources has been added to the page.</li>
         </ul>
         <div class="inspiration">
             <p>Did you know? AI can be used in various fields, such as:</p>
@@ -75,6 +76,9 @@
                 <li>Finance</li>
                 <li>Language processing and translation</li>
                 <li>Autonomous vehicles</li>
+                <li>Robotics</li>
+                <li>Customer service</li>
+                <li>Weather forecasting</li>
             </ul>
             <p>Stay tuned as we explore more about the potential of AI in future updates!</p>
         </div>
@@ -86,7 +90,9 @@
             <li><a href="https://ai.google" target="_blank">Google AI</a> - Explore Google's research and tools in AI, machine learning, and related fields.</li>
             <li><a href="https://ai.stackexchange.com" target="_blank">AI Stack Exchange</a> - Ask questions and share knowledge about artificial intelligence, machine learning, and related topics.</li>
             <li><a href="https://ai.facebook.com" target="_blank">Facebook AI</a> - Learn about Facebook's work on advancing AI technology to solve complex problems and benefit people.</li>
+            <li><a href="https://www.ibm.com/artificial-intelligence" target="_blank">IBM Watson</a> - Discover IBM's AI platform that leverages machine learning, natural language processing, and other cutting-edge technologies.</li>
         </ul>
     </div>
 </body>
 </html>
+
