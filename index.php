@@ -93,6 +93,15 @@
             <li><a href="https://www.ibm.com/artificial-intelligence" target="_blank">IBM Watson</a> - Discover IBM's AI platform that leverages machine learning, natural language processing, and other cutting-edge technologies.</li>
         </ul>
     </div>
+    <div class="community">
+        <h2>Join the Community</h2>
+        <p>Interested in AI and its applications? Join one of the following AI-related communities to stay up-to-date, ask questions, and engage with like-minded individuals:</p>
+        <ul>
+            <li><a href="https://www.reddit.com/r/artificial/" target="_blank">/r/artificial</a> - A Reddit community discussing AI news, research, and projects.</li>
+            <li><a href="https://www.reddit.com/r/MachineLearning/" target="_blank">/r/MachineLearning</a> - A subreddit for machine learning enthusiasts to share and discuss the latest developments in the field.</li>
+        </ul>
+    </div>
+
 </body>
 </html>
 
