@@ -17,6 +17,7 @@
         }
         div {
             background-color: white;
+            margin-bottom: 20px;
             padding: 20px;
             border-radius: 5px;
             box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -84,7 +85,7 @@
         </div>
     </div>
     <div class="resources">
-        <h2>Resources</h2>
+        <h2>AI Resources</h2>
         <ul>
             <li><a href="https://openai.com" target="_blank">OpenAI</a> - Discover the organization behind GPT-4 and learn about their mission to ensure that artificial general intelligence (AGI) benefits all of humanity.</li>
             <li><a href="https://ai.google" target="_blank">Google AI</a> - Explore Google's research and tools in AI, machine learning, and related fields.</li>
@@ -101,7 +102,15 @@
             <li><a href="https://www.reddit.com/r/MachineLearning/" target="_blank">/r/MachineLearning</a> - A subreddit for machine learning enthusiasts to share and discuss the latest developments in the field.</li>
         </ul>
     </div>
-
+    <div class="spotlight">
+        <h2>AI Spotlight: Chatbots</h2>
+        <p>Chatbots are AI-powered tools designed to simulate human-like conversations with users. They can be used in various industries, including customer support, e-commerce, and healthcare. Some popular chatbot platforms include:</p>
+        <ul>
+            <li><a href="https://www.pandorabots.com" target="_blank">Pandorabots</a> - Build and deploy chatbots on your website, mobile app, or popular messaging platforms.</li>
+            <li><a href="https://www.microsoft.com/en-us/ai/azure-bot-service" target="_blank">Microsoft Azure Bot Service</a> - Create, test, and deploy chatbots on the Azure cloud platform.</li>
+            <li><a href="https://dialogflow.cloud.google.com" target="_blank">Dialogflow</a> - A natural language understanding platform by Google that allows you to build conversational user interfaces.</li>
+        </ul>
+    </div>
 </body>
 </html>
 
