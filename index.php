@@ -51,6 +51,35 @@
         .resources h2 {
             margin-bottom: 15px;
         }
+        .resources ul {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        .resources li {
+            margin-bottom: 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .resources li a {
+            display: block;
+            margin-bottom: 5px;
+            font-size: 1.1em;
+            font-weight: bold;
+        }
+        .resources li a::before {
+            content: '';
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            margin-right: 8px;
+            vertical-align: middle;
+            background-repeat: no-repeat;
+            background-size: 16px 16px;
+        }
     </style>
 </head>
 <body>
@@ -123,6 +152,27 @@
             <li><strong>Game development:</strong> AI plays a significant role in the development of video games, from procedural content generation to creating realistic characters and behaviors.</li>
             <li><strong>Virtual Reality (VR) and Augmented Reality (AR):</strong> AI enhances user experiences in VR and AR by creating realistic and immersive environments, as well as responsive and intelligent interactions.</li>
         </ul>
+    </div>
+    <div class="ai-education">
+        <h2>AI in Education</h2>
+        <p>Artificial Intelligence is revolutionizing the educational landscape by providing personalized learning experiences, automating administrative tasks, and enabling innovative teaching methods. Some ways AI is being used in education include:</p>
+        <ul>
+            <li><strong>Adaptive learning:</strong> AI-powered platforms like <a href="https://www.dreambox.com" target="_blank">DreamBox</a> and <a href="https://www.knewton.com" target="_blank">Knewton</a> offer personalized learning experiences tailored to each student's needs and abilities.</li>
+            <li><strong>Smart tutoring:</strong> AI-powered tutoring systems like <a href="https://www.cognii.com" target="_blank">Cognii</a> and <a href="https://www.thinkstermath.com" target="_blank">Thinkster Math</a> provide students with instant feedback and guidance, enhancing their learning experience.</li>
+            <li><strong>Automating administrative tasks:</strong> AI can help reduce the workload for educators by automating tasks like grading, scheduling, and attendance tracking.</li>
+            <li><strong>Language learning:</strong> AI-powered language learning apps like <a href="https://www.duolingo.com" target="_blank">Duolingo</a> and <a href="https://www.memrise.com" target="_blank">Memrise</a> offer personalized and interactive learning experiences for language learners.</li>
+        </ul>
+    </div>
+    <div class="ai-ethics">
+        <h2>AI Ethics</h2>
+        <p>As AI continues to advance and become integrated into various aspects of our lives, ethical considerations become increasingly important. Ensuring the responsible development and deployment of AI technologies is crucial for mitigating potential negative impacts. Some key ethical concerns in AI include:</p>
+        <ul>
+            <li><strong>Data privacy:</strong> AI systems often rely on vast amounts of data, making it essential to protect users' privacy and maintain transparent data collection practices.</li>
+            <li><strong>Algorithmic fairness:</strong> Ensuring AI algorithms do not reinforce existing biases or discrimination and are transparent about their decision-making processes.</li>
+            <li><strong>Accountability:</strong> Determining responsibility when AI systems cause harm or make mistakes, and establishing mechanisms to address these issues.</li>
+            <li><strong>AI safety:</strong> Developing AI systems that are safe, robust, and resistant to potential misuse or unintended consequences.</li>
+        </ul>
+        <p>Organizations like <a href="https://www.partnershiponai.org/" target="_blank">Partnership on AI</a> and <a href="https://aiethicslab.com/" target="_blank">AI Ethics Lab</a> are working to promote responsible AI development and address ethical challenges.</p>
     </div>
 </body>
 </html>
