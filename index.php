@@ -123,8 +123,29 @@
             </li>
         </ul>
     </div>
+    <div class="resources">
+        <h2>AI in Art</h2>
+        <ul>
+            <li>
+                <a href="https://www.artnome.com/" target="_blank">ArtNome</a>
+                <p>An online platform exploring the intersection of art and technology, with a focus on AI-generated art and data-driven art analysis.</p>
+            </li>
+            <li>
+                <a href="https://deepart.io/" target="_blank">DeepArt.io</a>
+                <p>Create your own AI-generated artwork by combining your favorite styles and images using this deep learning-based platform.</p>
+            </li>
+            <li>
+                <a href="https://www.runwayml.com/" target="_blank">RunwayML</a>
+                <p>An easy-to-use platform for artists and designers to harness the power of machine learning and AI in their creative projects.</p>
+            </li>
+            <li>
+                <a href="https://obvious-art.com/" target="_blank">Obvious</a>
+                <p>A collective of artists, researchers, and engineers focused on creating thought-provoking AI-generated art.</p>
+            </li>
+        </ul>
+    </div>
     <footer>
-        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 26 March 2023</p>
+        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 28 March 2023</p>
     </footer>
 </body>
 </html>
