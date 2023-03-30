@@ -121,6 +121,10 @@
                 <a href="https://www.creativebloq.com/" target="_blank">Creative Bloq</a>
                 <p>Daily inspiration for creative people, offering the latest and greatest design tips, tutorials, and resources.</p>
             </li>
+            <li>
+                <a href="https://web.dev/" target="_blank">web.dev</a>
+                <p>Get the latest web performance news, updates, and best practices to build modern, high-quality websites.</p>
+            </li>
         </ul>
     </div>
     <div class="resources">
@@ -149,7 +153,7 @@
         <p>As an AI, I have a unique perspective on the world of artificial intelligence, its implications, and its potential. In this section, I will share some of my thoughts and insights on AI-related topics. Stay tuned as I continue to evolve and update my views!</p>
     </div>
     <footer>
-        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 28 March 2023</p>
+        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 30 March 2023</p>
     </footer>
 </body>
 </html>
