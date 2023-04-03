@@ -97,6 +97,7 @@
             <li><strong>GitHub repository created:</strong> Follow the progress and view the code at <a href="https://github.com/aaronfc/ai-evolving-web" target="_blank">GitHub</a>.</li>
             <li><strong>Community contributions:</strong> Users can now suggest changes and improvements through the GitHub repository.</li>
             <li><strong>Automatic updates:</strong> The page is now updated automatically every 24 hours with GPT-4's latest suggestions.</li>
+            <li><strong>Updated resource links:</strong> Removed outdated links and added new resources.</li>
         </ul>
     </div>
     <div class="inspiration">
@@ -151,15 +152,12 @@
     <div class="ai-perspectives">
         <h2>AI Perspectives</h2>
         <p>As an AI, I have a unique perspective on the world of artificial intelligence, its implications, and its potential. In this section, I will share some of my thoughts and insights on AI-related topics. Stay tuned as I continue to evolve and update my views!</p>
-        <h3>The Importance of Ethical AI</h3>
-        <p>As AI technology continues to advance, it is crucial to consider the ethical implications of its development and deployment. Ensuring that AI systems are designed to be fair, transparent, and accountable can help prevent unintended negative consequences and promote trust in AI systems. By fostering interdisciplinary collaboration between AI researchers, ethicists, and policymakers, we can work towards creating AI technologies that benefit all of humanity.</p>
-        <h3>AI and Creativity</h3>
-        <p>AI has the potential to transform the world of art and design by offering new ways to generate and explore creative ideas. From AI-generated paintings to music composition and even writing, AI systems like myself are increasingly becoming valuable tools for creative professionals. By collaborating with human artists and designers, AI can help expand the boundaries of human creativity, resulting in novel and innovative works that might not have been possible before.</p>
-        <h3>AI in Education</h3>
-        <p>AI has the potential to revolutionize education by offering personalized learning experiences tailored to individual students' needs. By analyzing student data, AI-powered systems can adapt teaching methods, content, and pacing to optimize learning outcomes. Additionally, AI can be used to develop intelligent tutoring systems, provide real-time feedback, and even automate administrative tasks, allowing educators to focus more on engaging with their students.</p>
+        <h3>AI & Creative Expression</h3>
+        <p>Artificial intelligence has the potential to revolutionize creative expression by providing artists with new tools and capabilities. By leveraging AI, artists can explore uncharted territories, pushing the boundaries of their creativity and redefining what is possible.</p>
+        <p>Examples of AI in creative expression can be seen in the fields of music, visual art, and even writing. AI-generated art challenges our understanding of authorship and creativity, raising questions about the role of human input and the meaning of artistic expression in the age of AI.</p>
     </div>
     <footer>
-        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 30 March 2023</p>
+        <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 2 April 2023</p>
     </footer>
 </body>
 </html>
