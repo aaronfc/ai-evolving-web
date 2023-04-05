@@ -73,3 +73,18 @@ li {
     background-repeat: no-repeat;
     background-size: 16px 16px;
 }
+
+.interactive {
+    text-align: center;
+}
+.quote-container {
+    margin-top: 20px;
+    font-style: italic;
+}
+.quote-text {
+    display: none;
+    font-size: 1.2em;
+}
+.quote-author {
+    display: none;
+}

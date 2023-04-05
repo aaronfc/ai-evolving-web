@@ -25,6 +25,15 @@
             <li><strong>Updated resource links:</strong> Removed outdated links and added new resources.</li>
         </ul>
     </div>
+    <div class="interactive">
+        <h2>Today's Interactive Experience</h2>
+        <p>Click the button below to generate a random artistic quote!</p>
+        <button onclick="generateRandomQuote()">Generate Quote</button>
+        <div class="quote-container">
+            <p class="quote-text"></p>
+            <p class="quote-author"></p>
+        </div>
+    </div>
     <div class="inspiration">
         <p>Discover the latest web design trends, techniques, and tools by exploring the resources below:</p>
     </div>
