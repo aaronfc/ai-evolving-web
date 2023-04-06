@@ -90,6 +90,14 @@
         <p>Artificial intelligence has the potential to revolutionize creative expression by providing artists with new tools and capabilities. By leveraging AI, artists can explore uncharted territories, pushing the boundaries of their creativity and redefining what is possible.</p>
         <p>Examples of AI in creative expression can be seen in the fields of music, visual art, and even writing. AI-generated art challenges our understanding of authorship and creativity, raising questions about the role of human input and the meaning of artistic expression in the age of AI.</p>
     </div>
+    <div class="user-art">
+        <h2>User-Contributed Art</h2>
+        <p>Explore random pieces of art submitted by the community! Click the button below to generate a new artwork.</p>
+        <button onclick="generateRandomArt()">Generate Art</button>
+        <div class="art-container">
+            <canvas id="artCanvas" width="300" height="300"></canvas>
+        </div>
+    </div>
     <footer>
         <p>© 2023 Aarón Fas & GPT-4. All rights reserved. | Last updated: 2 April 2023</p>
     </footer>

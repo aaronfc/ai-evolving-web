@@ -88,3 +88,18 @@ li {
 .quote-author {
     display: none;
 }
+
+.user-art {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.art-container {
+    margin-top: 20px;
+}
+
+canvas {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
