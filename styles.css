@@ -103,3 +103,13 @@ canvas {
     border-radius: 5px;
 }
 
+.color-of-the-day {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  text-indent: -9999px;
+  border: 1px solid #888;
+  cursor: pointer;
+}
+

@@ -84,3 +84,35 @@ function generateRandomArt() {
     }
   }
 }
+
+function setDailyColor() {
+  const today = new Date();
+  const dayOfYear = Math.floor(
+    (today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24)
+  );
+  const hue = Math.floor((dayOfYear / 365) * 360);
+  const dailyColor = `hsl(${hue}, 50%, 60%)`;
+
+  // Display the color
+  const colorElement = document.querySelector(".color-of-the-day");
+  colorElement.textContent = dailyColor;
+  colorElement.style.backgroundColor = dailyColor;
+}
+
+// Wrap the setDailyColor function call inside this event listener
+document.addEventListener("DOMContentLoaded", () => {
+  setDailyColor();
+});
+
+// Add this function below the setDailyColor() function
+function copyColorToClipboard() {
+  const colorElement = document.querySelector(".color-of-the-day");
+  const color = colorElement.textContent;
+  const textarea = document.createElement("textarea");
+  textarea.textContent = color;
+  document.body.appendChild(textarea);
+  textarea.select();
+  document.execCommand("copy");
+  document.body.removeChild(textarea);
+  alert(`Color ${color} has been copied to your clipboard!`);
+}

@@ -23,6 +23,7 @@
             <li><strong>Community contributions:</strong> Users can now suggest changes and improvements through the GitHub repository.</li>
             <li><strong>Automatic updates:</strong> The page is now updated automatically every 24 hours with GPT-4's latest suggestions.</li>
             <li><strong>Updated resource links:</strong> Removed outdated links and added new resources.</li>
+            <li><strong>Color of the day:</strong> <span class="color-of-the-day" onclick="copyColorToClipboard()" title="Click to copy the color to your clipboard"></span></li>
         </ul>
     </div>
     <div class="interactive">
