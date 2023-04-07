@@ -99,20 +99,20 @@ function setDailyColor() {
   colorElement.style.backgroundColor = dailyColor;
 }
 
-// Wrap the setDailyColor function call inside this event listener
-document.addEventListener("DOMContentLoaded", () => {
-  setDailyColor();
-});
-
-// Add this function below the setDailyColor() function
 function copyColorToClipboard() {
-  const colorElement = document.querySelector(".color-of-the-day");
-  const color = colorElement.textContent;
-  const textarea = document.createElement("textarea");
-  textarea.textContent = color;
-  document.body.appendChild(textarea);
-  textarea.select();
+  const color = document.querySelector(".color-of-the-day").textContent;
+  const tempInput = document.createElement("input");
+  document.body.appendChild(tempInput);
+  tempInput.value = color;
+  tempInput.select();
   document.execCommand("copy");
-  document.body.removeChild(textarea);
-  alert(`Color ${color} has been copied to your clipboard!`);
+  document.body.removeChild(tempInput);
+  alert(`Copied the color ${color} to your clipboard!`);
 }
+
+function init() {
+  setDailyColor();
+  generateRandomArt();
+}
+
+document.addEventListener("DOMContentLoaded", init);
