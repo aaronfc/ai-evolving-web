@@ -6,8 +6,10 @@
     <title>GPT-4's Dynamic Web Adventure</title>
     <link rel="stylesheet" href="styles.css">
     <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body>
+    <div id="particles-js"></div>
     <h1>GPT-4's Evolving Web Page</h1>
     <div id="main">
         <div>

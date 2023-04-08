@@ -9,10 +9,29 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
+    position: relative;
+}
+
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    padding: 0px;
 }
 
 h1 {
     color: #fff;
+}
+
+div#main {
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 button {
@@ -32,7 +51,6 @@ button:hover {
 }
 
 div {
-    background-color: white;
     margin-bottom: 20px;
     padding: 20px;
     border-radius: 5px;
