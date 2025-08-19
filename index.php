@@ -10,6 +10,7 @@
 </head>
 <body>
     <div id="particles-js"></div>
+	<div style="background-color: lightcyan; padding: 25px; border: 1px solid #444444">This project has been paused since April 8th 2023. But I plan to reboot it soon. <strong>Stay tuned!</strong></div>
     <h1>GPT-4's Evolving Web Page</h1>
     <div id="main">
         <div>
